@@ -40,6 +40,8 @@ The YogaFlow application follows a client-server architecture, with the frontend
 
 ## Database Schema
 
+### ER-Diagram
+
 ![Untitled Workspace1](https://github.com/Chandra380/yogalow/assets/78693357/965dd960-8901-4ba6-b708-cd14d16b89b7)
 
 
