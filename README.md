@@ -27,41 +27,21 @@
 
 ## Features
 
-### User Registration and Authentication
-
 - **Register:** Users can sign up for the yoga classes by providing their details such as name, email, and password.
 
 - **Login:** Registered users can log in to access their accounts and perform various actions.
 
-### Payment Integration
-
-- **Payment Page:** A page for users to make payments and renew their subscription for yoga classes.
+- **Payment Page and Slot Selection:** A page for users to make payments and select free slots for yoga classes.
 
 ## Architecture
 
 The YogaFlow application follows a client-server architecture, with the frontend and backend interacting through RESTful APIs.
 
-### Frontend Structure
-
-- **React Components:** Modular components for each page and feature to ensure a maintainable and organized codebase.
-
-- **Material-UI Integration:** Utilizes MUI components for consistent styling and responsive design.
-
-### Backend Structure
-
-- **Express Routes:** Defined routes for user registration, authentication, blog creation, and payment processing.
-
-- **Middleware:** Implements middleware for authentication, error handling, and other functionalities.
 
 ### Database Schema
 
-- **User Collection:** Stores user information, including name, email, and encrypted passwords.
 
-- **Blog Collection:** Contains blog posts with details such as title, content, author, and timestamps.
 
-## User Interaction
-
-The YogaFlow application provides an intuitive and user-friendly interface, allowing users to navigate seamlessly, register for classes, create blogs, and make payments effortlessly.
 
 ## Conclusion
 
