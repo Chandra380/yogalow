@@ -38,7 +38,7 @@
 The YogaFlow application follows a client-server architecture, with the frontend and backend interacting through RESTful APIs.
 
 
-### Database Schema
+## Database Schema
 
 
 
